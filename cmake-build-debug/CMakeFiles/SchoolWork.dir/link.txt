@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/SchoolWork.dir/lab_03.cc.o CMakeFiles/SchoolWork.dir/Main.cc.o  -o SchoolWork 

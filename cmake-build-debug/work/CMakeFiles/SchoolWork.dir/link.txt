@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSchoolWork.a  CMakeFiles/SchoolWork.dir/lab_03.cc.o CMakeFiles/SchoolWork.dir/__/Main.cc.o
+/usr/bin/ranlib libSchoolWork.a

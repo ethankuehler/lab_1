@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Test.dir/mass_check.cc.o  -o Test ../googletest/libgtest.a ../googletest/libgtest_main.a ../../libSchoolWork.a ../googletest/libgtest.a -lpthread 

@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="SchoolWork"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\work\;CMake Files\work\Testing\;CMake Files\work\Testing\googletest\;CMake Files\work\Testing\googletest\cmake\;CMake Files\work\Testing\Tests\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/ethankuehler/SchoolWork/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="/home/ethankuehler/SchoolWork/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="/home/ethankuehler/SchoolWork/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="/home/ethankuehler/SchoolWork/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="/home/ethankuehler/SchoolWork/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/ethankuehler/SchoolWork/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/ethankuehler/SchoolWork/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="run_SchoolWork">
+				<Option output="/home/ethankuehler/SchoolWork/cmake-build-debug/run_SchoolWork" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ethankuehler/SchoolWork/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/Makefile&quot;  VERBOSE=1 run_SchoolWork"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="run_SchoolWork/fast">
+				<Option output="/home/ethankuehler/SchoolWork/cmake-build-debug/run_SchoolWork" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ethankuehler/SchoolWork/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/Makefile&quot;  VERBOSE=1 run_SchoolWork/fast"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SchoolWork">
+				<Option output="/home/ethankuehler/SchoolWork/cmake-build-debug/work/libSchoolWork.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ethankuehler/SchoolWork/cmake-build-debug/work"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/work/Makefile&quot;  VERBOSE=1 SchoolWork"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/work/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/work/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/work/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SchoolWork/fast">
+				<Option output="/home/ethankuehler/SchoolWork/cmake-build-debug/work/libSchoolWork.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ethankuehler/SchoolWork/cmake-build-debug/work"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/work/Makefile&quot;  VERBOSE=1 SchoolWork/fast"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/work/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/work/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/work/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest_main">
+				<Option output="/home/ethankuehler/SchoolWork/cmake-build-debug/work/Testing/googletest/libgtest_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ethankuehler/SchoolWork/cmake-build-debug/work/Testing/googletest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/ethankuehler/SchoolWork/work/Testing/googletest/include"/>
+					<Add directory="/home/ethankuehler/SchoolWork/work/Testing/googletest"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/work/Testing/googletest/Makefile&quot;  VERBOSE=1 gtest_main"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/work/Testing/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/work/Testing/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/work/Testing/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest_main/fast">
+				<Option output="/home/ethankuehler/SchoolWork/cmake-build-debug/work/Testing/googletest/libgtest_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ethankuehler/SchoolWork/cmake-build-debug/work/Testing/googletest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/ethankuehler/SchoolWork/work/Testing/googletest/include"/>
+					<Add directory="/home/ethankuehler/SchoolWork/work/Testing/googletest"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/work/Testing/googletest/Makefile&quot;  VERBOSE=1 gtest_main/fast"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/work/Testing/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/work/Testing/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/work/Testing/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest">
+				<Option output="/home/ethankuehler/SchoolWork/cmake-build-debug/work/Testing/googletest/libgtest.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ethankuehler/SchoolWork/cmake-build-debug/work/Testing/googletest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/ethankuehler/SchoolWork/work/Testing/googletest/include"/>
+					<Add directory="/home/ethankuehler/SchoolWork/work/Testing/googletest"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/work/Testing/googletest/Makefile&quot;  VERBOSE=1 gtest"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/work/Testing/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/work/Testing/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/work/Testing/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest/fast">
+				<Option output="/home/ethankuehler/SchoolWork/cmake-build-debug/work/Testing/googletest/libgtest.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ethankuehler/SchoolWork/cmake-build-debug/work/Testing/googletest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/ethankuehler/SchoolWork/work/Testing/googletest/include"/>
+					<Add directory="/home/ethankuehler/SchoolWork/work/Testing/googletest"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/work/Testing/googletest/Makefile&quot;  VERBOSE=1 gtest/fast"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/work/Testing/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/work/Testing/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/work/Testing/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Test">
+				<Option output="/home/ethankuehler/SchoolWork/cmake-build-debug/work/Testing/Tests/Test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ethankuehler/SchoolWork/cmake-build-debug/work/Testing/Tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/ethankuehler/SchoolWork/work/Testing/googletest/inlcude"/>
+					<Add directory="/home/ethankuehler/SchoolWork/work/Testing/googletest"/>
+					<Add directory="/home/ethankuehler/SchoolWork/work/Testing/googletest/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/work/Testing/Tests/Makefile&quot;  VERBOSE=1 Test"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/work/Testing/Tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/work/Testing/Tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/work/Testing/Tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Test/fast">
+				<Option output="/home/ethankuehler/SchoolWork/cmake-build-debug/work/Testing/Tests/Test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ethankuehler/SchoolWork/cmake-build-debug/work/Testing/Tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/ethankuehler/SchoolWork/work/Testing/googletest/inlcude"/>
+					<Add directory="/home/ethankuehler/SchoolWork/work/Testing/googletest"/>
+					<Add directory="/home/ethankuehler/SchoolWork/work/Testing/googletest/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/work/Testing/Tests/Makefile&quot;  VERBOSE=1 Test/fast"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/work/Testing/Tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/work/Testing/Tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/ethankuehler/SchoolWork/cmake-build-debug/work/Testing/Tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/ethankuehler/SchoolWork/Main.cc">
+			<Option target="run_SchoolWork"/>
+			<Option target="SchoolWork"/>
+		</Unit>
+		<Unit filename="/home/ethankuehler/SchoolWork/work/Testing/Tests/mass_check.cc">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="/home/ethankuehler/SchoolWork/work/Testing/googletest/src/gtest-all.cc">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/home/ethankuehler/SchoolWork/work/Testing/googletest/src/gtest_main.cc">
+			<Option target="gtest_main"/>
+		</Unit>
+		<Unit filename="/home/ethankuehler/SchoolWork/work/lab_03.cc">
+			<Option target="SchoolWork"/>
+		</Unit>
+		<Unit filename="/home/ethankuehler/SchoolWork/work/lab_03.hxx">
+			<Option target="SchoolWork"/>
+		</Unit>
+		<Unit filename="/home/ethankuehler/SchoolWork/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/ethankuehler/SchoolWork/work/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\work\"/>
+		</Unit>
+		<Unit filename="/home/ethankuehler/SchoolWork/work/Testing/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\work\Testing\"/>
+		</Unit>
+		<Unit filename="/home/ethankuehler/SchoolWork/work/Testing/googletest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\work\Testing\googletest\"/>
+		</Unit>
+		<Unit filename="/home/ethankuehler/SchoolWork/work/Testing/googletest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\work\Testing\googletest\"/>
+		</Unit>
+		<Unit filename="/home/ethankuehler/SchoolWork/work/Testing/googletest/cmake/internal_utils.cmake">
+			<Option virtualFolder="CMake Files\work\Testing\googletest\cmake\"/>
+		</Unit>
+		<Unit filename="/home/ethankuehler/SchoolWork/work/Testing/googletest/cmake/internal_utils.cmake">
+			<Option virtualFolder="CMake Files\work\Testing\googletest\cmake\"/>
+		</Unit>
+		<Unit filename="/home/ethankuehler/SchoolWork/work/Testing/Tests/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\work\Testing\Tests\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

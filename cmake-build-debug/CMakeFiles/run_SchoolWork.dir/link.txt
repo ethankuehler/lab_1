@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/run_SchoolWork.dir/Main.cc.o  -o run_SchoolWork work/libSchoolWork.a 

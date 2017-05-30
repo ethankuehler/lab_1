@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ethankuehler/SchoolWork/Main.cc
+algorithm
+-
+vector
+-
+work/lab_03.hxx
+/home/ethankuehler/SchoolWork/work/lab_03.hxx
+
+/home/ethankuehler/SchoolWork/work/lab_03.cc
+lab_03.hxx
+/home/ethankuehler/SchoolWork/work/lab_03.hxx
+
+/home/ethankuehler/SchoolWork/work/lab_03.hxx
+iostream
+-
+cstdio
+-
+string
+-
+
